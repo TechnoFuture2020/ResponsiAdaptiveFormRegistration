@@ -78,7 +78,7 @@ input, select {
     border: 1px solid hsl(210, 14%, 83%);
     background-clip: padding-box;
 }
-input:focus:not([type="radio"],[type="checkbox"]) {
+input:focus:not([type="radio"]), input:focus:not([type="checkbox"]) {
     border-color: #80bdff;
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
@@ -134,7 +134,10 @@ a#validatorHTML1:hover, a#validatorHTML2:hover {
     background: #f548bb;
     color: #fff;
 }
-
+a#validatorCSS3 {
+    display: inline-block;
+    vertical-align: middle;
+}
 
 
 
