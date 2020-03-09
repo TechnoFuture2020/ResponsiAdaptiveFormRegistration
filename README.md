@@ -1,2 +1,2 @@
 # ResponsiveAdaptiveFormRegistration
-https://technofuture2020.github.io/ResponsAdaptiveFormRegistration/
+https://technofuture2020.github.io/ResponAdaptiveFormRegistration/
