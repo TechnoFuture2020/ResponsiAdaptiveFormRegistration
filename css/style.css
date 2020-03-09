@@ -134,7 +134,7 @@ a#validatorHTML1:hover, a#validatorHTML2:hover {
     background: #f548bb;
     color: #fff;
 }
-a#validatorCSS3 {
+a.validatorCSS3 {
     display: inline-block;
     vertical-align: middle;
 }
